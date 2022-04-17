@@ -16,3 +16,7 @@ Her oynandığında girilen kullanıcı adları temel alınarak kullanıcının 
 Sıralama en yüksek skordan en düşük skora doğru ilerlemektedir.  
 Oynayan kullanıcıların skorları oyun içerisinde sürekli olarak tutulmaktadır. (kendi rekorunuzu zorlayabilirsiniz :D)  
 Dosyalar arasında uygulamanın bir apksı bulunmaktadır mobil cihazınıza indirerek deneyebilirsiniz.  
+Tayyar Berk Çobanoğlu 1190505044  
+Caner Sazak 1170505021  
+Tuanna Burçak Yavuz 1190505026  
+Alaettin Uslu 1190505014   
